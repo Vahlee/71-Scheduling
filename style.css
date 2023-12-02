@@ -1,0 +1,30 @@
+.date {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #F3B664;
+
+}
+.up {
+    font-size:1.5rem;
+}
+h1 {
+    font-size: 3rem;
+    font-family: 'Roboto', sans-serif;
+}
+.add , img {
+    text-align: center;
+    height:40px;
+    margin: 50px auto;
+    cursor: pointer;
+}
+.paragraph {
+    font-size: 1.3rem;
+}
+h2 {
+    font-size: 1.5rem;
+}
+body {
+    font-family: 'Roboto Slab', serif;
+}
